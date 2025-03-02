@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Thu Thảo 👋 - <a href="https://github.com/ThanhLa1802">THẢO IT</a> = Software Engineer 🌻</h1>
+<h1 align="center">Hi, I'm Thu Thảo 👋 - <a href="https://github.com/ThanhLa1802">THAO IT</a> = Software Engineer 🌻</h1>
 
 <p align="center">
   <em>Just do it!</em>
